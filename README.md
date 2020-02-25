@@ -1,4 +1,4 @@
-# fancy_hidden_menu_final
+# Alathkar Simple App
 
 A new Flutter application.
 
